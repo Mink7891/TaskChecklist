@@ -1,5 +1,3 @@
-# pip install flet
-
 import flet as ft
 
 
